@@ -9,6 +9,7 @@ class Addmodifiedfile
            int secondnum = sc.nextInt();
            int result = firstnum + secondnum;
           System.out.println("The sum of two numbers is" + " " result);
+      // Program to add two numbers
 }
 }
 
